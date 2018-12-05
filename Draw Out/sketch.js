@@ -7,7 +7,7 @@ function preload() {
 function setup() {
  	createCanvas(windowWidth, windowHeight);  
     	background(bg, 0, 0);
-	strokeWeight(8)
+	strokeWeight(20)
 	stroke(160, 37, 137);
     
     
