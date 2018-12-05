@@ -1,7 +1,7 @@
 var bg;
 
 function preload() {
-    bg = loadImage("assets/ghost2.png");
+    bg = loadImage("assets/function5.png");
 }
 
 function setup() {
